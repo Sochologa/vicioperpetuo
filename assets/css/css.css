@@ -36,18 +36,15 @@ textarea::-webkit-scrollbar {
         width: 1vw;
       }
 
+.logo{
+  display:flex;
+  position:absolute;
+  height:3vh;
+  width:auto;
+  top:0px;
+  right:0px;
 
-#logo{
-  height:50vh;
-  margin:25vh 0vw;
-}
 
-port center img{
-  display:block;
-  height:auto;
-  width: 20vw;
-  border-radius: 10px;
-  margin:0 0 5vh;
 }
 
 
