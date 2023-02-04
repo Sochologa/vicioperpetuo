@@ -62,13 +62,11 @@ textarea::-webkit-scrollbar {
 
 .logo{
   display:block;
-  position:relative;
-  height:50vh;
-  width:auto;
-  top:0px;
-  right:0px;
-  margin:25vh 0vh;
-  z-index: 100;
+  position:absolute;
+  height:5vw;
+  width:5vw;
+  top:5px;
+  left:5px;
 }
 
 a.menu-top:hover{
