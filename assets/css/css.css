@@ -58,8 +58,6 @@ textarea::-webkit-scrollbar {
   width: 1vw;
 }
 
-
-
 .logo{
   display:block;
   position:absolute;
@@ -68,8 +66,6 @@ textarea::-webkit-scrollbar {
   top:5px;
   left:5px;
 }
-
-
 
 a.menu-top:hover{
   background:#00ff00;
@@ -139,7 +135,16 @@ a.menu-element:hover{
 
 
   .background-video{
-    margin-top:0px;
+    height:125vh;
+    background:#fff;
+    border:none;
+    text-decoration: none;
+  }
+
+  .background-video video{
+    background: #fff;
+    border:none;
+    text-decoration: none;
   }
 
 }
