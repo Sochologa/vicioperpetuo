@@ -69,6 +69,8 @@ textarea::-webkit-scrollbar {
   left:5px;
 }
 
+
+
 a.menu-top:hover{
   background:#00ff00;
 }
@@ -108,6 +110,10 @@ a.menu-element:hover{
   
 }
 
+.background-video{
+  margin-top:-12.5vh;
+}
+
 
 @media screen and (max-width: 720px) {
 
@@ -122,13 +128,18 @@ a.menu-element:hover{
 
   .logo{
     display:block;
-    position:relative;
-    height:100vw;
-    width:100vw;
+    position:absolute;
+    height:15vw;
+    width:15vw;
     top:0px;
-    right:0px;
-    margin:25vh 0vh;
+    left:0px;
+    margin:0vh 0vh;
 
+  }
+
+
+  .background-video{
+    margin-top:0px;
   }
 
 }
