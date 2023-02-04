@@ -14,7 +14,7 @@ a{
 
 a:hover{
   color:#fff;
-  background:#00ff00;
+  background:#BA5A31;
 }
 
 a.menu-element{
@@ -34,7 +34,7 @@ a.menu-element:hover{
 }
 
 a.w-dyn-items:hover{
-  background:#00ff00;
+  background:#BA5A31;
 }
 
 /*Scrollbar*/
@@ -70,7 +70,12 @@ textarea::-webkit-scrollbar {
 }
 
 a.menu-top:hover{
-  background:#00ff00;
+  background:#BA5A31;
+}
+
+a.menu-element:hover{
+  background:#000;
+  color:#fff;
 }
 
 .link-home-logo{
@@ -86,7 +91,7 @@ a.menu-top:hover{
 .link-home-logo:hover{
   height:5vh;
   width:100vw;
-  background:#00ff00;
+  background:#BA5A31;
   color:white;
   border-radius:0px;
   padding:1vh 1vh 1vh 1vh;
