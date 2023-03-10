@@ -34,6 +34,10 @@ Installation via Windows Terminal:
 same but:
 
 ```
+ruby bin/rails db:create db:migrate
+```
+
+```
 ruby bin/rails server
 ```
 
