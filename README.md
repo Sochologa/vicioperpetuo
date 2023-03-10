@@ -2,8 +2,8 @@
 Open Source Library Store with Yape, Plin, Bitcoin payment methods
 
 You need to have installed:
-*Ruby
-*Ruby on Rails
+* Ruby
+* Ruby on Rails
 
 Installation via Ubuntu Linux:
 
