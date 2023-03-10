@@ -5,7 +5,7 @@ You need to have installed:
 * Ruby
 * Ruby on Rails
 
-Installation via Ubuntu Linux:
+**Installation via Ubuntu Linux:**
 
 Navigate to the root directory of your RoR application using the cd command. For example:
 
@@ -29,7 +29,7 @@ Finally, start the RoR server by running the following command:
 rails server
 ```
 
-Installation via Windows Terminal:
+**Installation via Windows Terminal:**
 
 same but:
 
@@ -41,7 +41,7 @@ ruby bin/rails db:create db:migrate
 ruby bin/rails server
 ```
 
-+ Fly.io Deploy Recommended
+**+ Fly.io Deploy Recommended**
 
 .
 
