@@ -37,6 +37,8 @@ same but:
 ruby bin/rails server
 ```
 
++ Fly.io Deploy Recommended
+
 .
 
 
