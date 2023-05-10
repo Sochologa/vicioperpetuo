@@ -1,49 +1,24 @@
-# vicioperpetuo.com
-Open Source Library Store with Yape, Plin, Bitcoin payment methods
+# README
 
-You need to have installed:
-* Ruby
-* Ruby on Rails
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-**Installation via Ubuntu Linux:**
+Things you may want to cover:
 
-Navigate to the root directory of your RoR application using the cd command. For example:
+* Ruby version
 
-```
-cd /path/to/vicioperpetuo
-```
+* System dependencies
 
-Install all the required gems by running the following command:
+* Configuration
 
-```
-bundle install
-```
+* Database creation
 
-Create the database and run any pending migrations by running the following command:
-```
-rails db:create db:migrate
-```
+* Database initialization
 
-Finally, start the RoR server by running the following command:
-```
-rails server
-```
+* How to run the test suite
 
-**Installation via Windows Terminal:**
+* Services (job queues, cache servers, search engines, etc.)
 
-same but:
+* Deployment instructions
 
-```
-ruby bin/rails db:create db:migrate
-```
-
-```
-ruby bin/rails server
-```
-
-**+ Fly.io Deploy Recommended**
-
-.
-
-
-
+* ...
