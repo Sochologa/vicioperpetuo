@@ -237,6 +237,10 @@ We extend our gratitude to:
 
 ---
 
-Crafted with 💜 and {code} by Brutales XYZ
-© 2024 Brutales XYZ - Where Digital Art Meets Literary Revolution
-Lead Artist: Mari Lin
+<p align="center">
+Crafted with ❤️ and {code} by Brutales XYZ
+<br>
+© 2024 Brutales XYZ - Where Digital Art Meets Literacy Revoluction✨
+<br>
+Founder: Mari Lin
+</p>
