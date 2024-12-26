@@ -237,6 +237,6 @@ We extend our gratitude to:
 
 ---
 
-Made with ♥️ and code by Brutales XYZ  
-Founder: Mari Lin
-© 2024 Brutales XYZ. All rights reserved.
+Crafted with 💜 and {code} by Brutales XYZ
+© 2024 Brutales XYZ - Where Digital Art Meets Literary Revolution
+Lead Artist: Mari Lin
